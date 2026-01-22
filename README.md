@@ -32,7 +32,8 @@ DISCORD_TOKEN=your-bot-token
 PUBLIC_KEY=your-public-key
 ```
 
-6. Deploy slash commands ```node src/deploy-commands.js```
+6. Check if dotenv is installed (if not, run ```npm install dotenv
+```), then deploy slash commands ```node src/deploy-commands.js```
 
 7. Run the bot locally ```node src/app.js```
 * Note: Global commands may take up to an hour to appear on all servers.
