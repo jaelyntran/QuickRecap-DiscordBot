@@ -25,7 +25,7 @@ If you want to run your own copy of the bot:
    
 5. Set up environment variables
 Create a .env file in the project root with the following:
-```
+```env
 APP_ID=your-app-id
 GUILD_ID=your-guild-id # optional (use for testing in one server; leave blank for global commands)
 DISCORD_TOKEN=your-bot-token
