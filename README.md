@@ -1,14 +1,15 @@
 # QuickRecap-DiscordBot
 This project contains a message summary Discord app written in JavaScript.
 
-## Inviting the Bot to the Server (No Setup Required)
+## BOT IS NOT CURRENTLY ACTIVE
+~~## Inviting the Bot to the Server (No Setup Required)
 You can invite the hosted version of this bot directly to your server.
 
 1. Click the invite link: [Invite QuickRecap](https://discord.com/oauth2/authorize?client_id=1408282486424862822)
 
 2. Select the server you want to add the bot to.
    
-3. Once invited, you can start using the `/summarize` and `/autosummary` commands in any text channel.
+3. Once invited, you can start using the `/summarize` and `/autosummary` commands in any text channel.~~
 
 ## Self-Host the Bot 
 If you want to run your own copy of the bot:
@@ -32,8 +33,7 @@ DISCORD_TOKEN=your-bot-token
 PUBLIC_KEY=your-public-key
 ```
 
-6. Check if dotenv is installed (if not, run ```npm install dotenv
-```), then deploy slash commands ```node src/deploy-commands.js```
+6. Deploy slash commands ```node src/deploy-commands.js```
 
 7. Run the bot locally ```node src/app.js```
 * Note: Global commands may take up to an hour to appear on all servers.
