@@ -2,16 +2,14 @@
 This project contains a message summary Discord app written in JavaScript.
 
 ## BOT IS NOT CURRENTLY ACTIVE
-~~
-## Inviting the Bot to the Server (No Setup Required)
-You can invite the hosted version of this bot directly to your server.
+~~## Inviting the Bot to the Server (No Setup Required)~~
+~~You can invite the hosted version of this bot directly to your server.~~
 
-1. Click the invite link: [Invite QuickRecap](https://discord.com/oauth2/authorize?client_id=1408282486424862822)
+~~1. Click the invite link: [Invite QuickRecap](https://discord.com/oauth2/authorize?client_id=1408282486424862822)~~
 
-2. Select the server you want to add the bot to.
+~~2. Select the server you want to add the bot to.~~
    
-3. Once invited, you can start using the `/summarize` and `/autosummary` commands in any text channel.
-~~
+~~3. Once invited, you can start using the `/summarize` and `/autosummary` commands in any text channel.~~
 
 ## Self-Host the Bot 
 If you want to run your own copy of the bot:
