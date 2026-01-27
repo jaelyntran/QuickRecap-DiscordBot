@@ -1,8 +1,7 @@
 # QuickRecap-DiscordBot
 This project contains a message summary Discord app written in JavaScript.
 
-## BOT IS NOT CURRENTLY ACTIVE
-~~## Inviting the Bot to the Server (No Setup Required)~~
+## ~~Inviting the Bot to the Server (No Setup Required)~~ BOT IS NOT CURRENTLY ACTIVE
 ~~You can invite the hosted version of this bot directly to your server.~~
 
 ~~1. Click the invite link: [Invite QuickRecap](https://discord.com/oauth2/authorize?client_id=1408282486424862822)~~
